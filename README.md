@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Bharath1052/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,10 +78,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
