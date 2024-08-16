@@ -14,6 +14,7 @@
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Bharath1052/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bharath1052/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Bharath1052/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
