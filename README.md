@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharath1052/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
