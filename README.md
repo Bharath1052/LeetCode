@@ -25,6 +25,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Bharath1052/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Bharath1052/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharath1052/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Bharath1052/LeetCode/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharath1052/LeetCode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Bharath1052/LeetCode/tree/master/0061-rotate-list) |
 ## String
 |  |
 | ------- |
