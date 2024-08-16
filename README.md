@@ -28,6 +28,7 @@
 | [0002-add-two-numbers](https://github.com/Bharath1052/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bharath1052/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bharath1052/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,12 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharath1052/LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
