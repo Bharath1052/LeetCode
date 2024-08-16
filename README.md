@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Bharath1052/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Bharath1052/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Bharath1052/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bharath1052/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Bharath1052/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Bharath1052/LeetCode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Bharath1052/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Bharath1052/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
