@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Bharath1052/LeetCode/tree/master/0058-length-of-last-word) |
 ## Simulation
 |  |
 | ------- |
