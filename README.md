@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bharath1052/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bharath1052/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/Bharath1052/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bharath1052/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
