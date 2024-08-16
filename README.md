@@ -29,6 +29,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Bharath1052/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bharath1052/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Bharath1052/LeetCode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Bharath1052/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
 | ------- |
