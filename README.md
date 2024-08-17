@@ -80,6 +80,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Bharath1052/LeetCode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Bharath1052/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bharath1052/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bharath1052/LeetCode/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/Bharath1052/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bharath1052/LeetCode/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Bharath1052/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
