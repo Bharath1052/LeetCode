@@ -40,6 +40,7 @@
 | [0048-rotate-image](https://github.com/Bharath1052/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Bharath1052/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Bharath1052/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bharath1052/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -80,11 +81,13 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Bharath1052/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Bharath1052/LeetCode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/Bharath1052/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Bharath1052/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Bharath1052/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bharath1052/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Bharath1052/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
